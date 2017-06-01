@@ -1,0 +1,24 @@
+{
+  "name": "lec38",
+  "version": "1.0.0",
+  "description": "testunit",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neiza/gentle-tdd.git"
+  },
+  "keywords": [
+    "test",
+    "tdd",
+    "ejemplo"
+  ],
+  "author": "neiza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neiza/gentle-tdd/issues"
+  },
+  "homepage": "https://github.com/Neiza/gentle-tdd#readme"
+}
